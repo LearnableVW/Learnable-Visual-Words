@@ -2,4 +2,4 @@
 Pytorch implementation for paper [Learnable Visual Words for Interpretable Image Recognition].
 
 # Framework
-![Alt text](framework.jpg?raw=true "Title")
+![Alt text](framework.png?raw=true "Title")
