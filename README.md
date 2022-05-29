@@ -1,5 +1,5 @@
 # Learnable-Visual-Words
-Pytorch implementation for paper [Learnable Visual Words for Interpretable Image Recognition].
+Pytorch implementation for paper [Learnable Visual Words for Interpretable Image Recognition](https://openreview.net/forum?id=Z-qvUgwQOE4).
 
 # Framework
 ![Alt text](framework.png?raw=true "Title")
