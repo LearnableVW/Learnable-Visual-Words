@@ -16,11 +16,13 @@ Pytorch implementation for paper [Learnable Visual Words for Interpretable Image
 # Datasets
 Please download the datasets from their official sites: [Stanford-Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/main.html#:~:text=The%20Stanford%20Dogs%20dataset%20contains,of%20fine%2Dgrained%20image%20categorization.), [AWA2](https://cvml.ist.ac.at/AwA2/), [Oxford 102 Flower](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/), [STL10](https://cs.stanford.edu/~acoates/stl10/), [Oxford-IIIT Pet](https://www.robots.ox.ac.uk/~vgg/data/pets/) and [Food-101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)
 Prepare the datasets and orgnized all samples as follows:
+
     ---train
        |--- Class 1
        |--- Class 2
        ...
        |--- Class C
+       
     ---test
        |--- Class 1
        |--- Class 2
