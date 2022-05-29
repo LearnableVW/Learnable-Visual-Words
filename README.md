@@ -21,7 +21,6 @@ Prepare the datasets and orgnized all samples as follows:
        |--- Class 2
        ...
        |--- Class C
-
     ---test
        |--- Class 1
        |--- Class 2
