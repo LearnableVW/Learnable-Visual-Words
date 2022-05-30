@@ -5,15 +5,15 @@ Pytorch implementation for paper **Learnable Visual Words for Interpretable Imag
 To interpret deep models’ predictions, attention-based visual cues are widely used 
 in addressing *why* deep models make such predictions. Beyond that, the current
 research community becomes more interested in reasoning *how* deep models make
-predictions, where some prototype-based methods employ interpretable representa-
-tions with their corresponding visual cues to reveal the black-box mechanism of
+predictions, where some prototype-based methods employ interpretable representations
+with their corresponding visual cues to reveal the black-box mechanism of
 deep model behaviors. However, these pioneering attempts only either learn the
-category-specific prototypes and deteriorate their generalizing capacities, or demon-
-strate several illustrative examples without a quantitative evaluation of visual-based
+category-specific prototypes and deteriorate their generalizing capacities, or demonstrate 
+several illustrative examples without a quantitative evaluation of visual-based
 interpretability with further limitations on their practical usages. In this paper,
 we revisit the concept of visual words and propose the Learnable Visual Words
-(LVW) to interpret the model prediction behaviors with two novel modules: se-
-mantic visual words learning and dual fidelity preservation. The semantic visual
+(LVW) to interpret the model prediction behaviors with two novel modules: semantic 
+visual words learning and dual fidelity preservation. The semantic visual
 words learning relaxes the category-specific constraint, enabling the general visual
 words shared across different categories. Beyond employing the visual words for
 prediction to align visual words with the base model, our dual fidelity preservation
