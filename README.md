@@ -60,7 +60,7 @@ Prepare the datasets and orgnized all samples as follows:
 4. Evaluate the model by IOU:
     > python evaluation.py -modeldir ./saved_models/resnet34/0034_pets -model 200_19push0.8621.pth -test_atts ./data/grad_test_pets.npy -thr 50
 
-The fine-tuned ResNet-34 model, training and testing Grad-Cam attention for Oxford-IIIT Pet dataset can be download from [Google-Drive](https://drive.google.com/drive/folders/1ibLEWs1H9e4xOOsq5s8C23-P9kYv8bmi?usp=sharing).
+The fine-tuned ResNet-34 model, training and testing Grad-Cam attention for Oxford-IIIT Pet dataset can be download from [Google-Drive](https://drive.google.com/drive/folders/1yGh3eFjxx5c7UGM9DJHOy9Ljtf5baKP4?usp=sharing).
 
 # Acknowledgement
 This project is built on the open-source implementation [ProtoPNet](https://github.com/cfchen-duke/ProtoPNet).
